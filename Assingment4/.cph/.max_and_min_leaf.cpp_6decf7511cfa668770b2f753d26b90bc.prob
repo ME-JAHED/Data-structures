@@ -1,0 +1,1 @@
+{"name":"Local: max_and_min_leaf","url":"f:\\Programing\\Data Structures\\Assingment4\\max_and_min_leaf.cpp","tests":[{"id":1689426227839,"input":"10 20 30 40 50 -1 60 -1 -1 -1 -1 -1 -1","output":"60 40"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Programing\\Data Structures\\Assingment4\\max_and_min_leaf.cpp","group":"local","local":true}

@@ -1,0 +1,6 @@
+i 1
+it 1
+love 3
+me 1
+we 1
+you 2
